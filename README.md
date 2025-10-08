@@ -1,3 +1,5 @@
+![Banner de Perfil JP](https://github.com/tiger-dev-1/tiger-dev-1/blob/main/capa%20final%20-%2008-10-2025%2C%20jp%2C%20gpt%2C%20github.png)
+
 ### Olá, eu sou o JP! 👋
 
 💻 Desenvolvedor de Software
